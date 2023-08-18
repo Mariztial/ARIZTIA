@@ -1,6 +1,6 @@
-# Repositorio privado
+# Magdalena Ariztía
 
-Este es tu repositorio que utilizarás durante todo el curso. Todos los ayudantes y profesores tienen acceso a este. Debes darle un buen uso y solo con fines académicos.
+Tarea 1
 
 **Asegúrate de seguir la estructuras de las carpetas y archivos de tu repositorio.**
 
